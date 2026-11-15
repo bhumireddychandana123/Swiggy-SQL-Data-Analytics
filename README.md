@@ -215,7 +215,7 @@ ORDER BY total_orders DESC;
 
 **Output:**
 
-![Orders by Day](Screenshots/07_Orders_By_Day.png)
+![Orders by Day](https://github.com/bhumireddychandana123/Swiggy-SQL-Data-Analytics/blob/0c5bded32e0e84079161f74eca5f53a425c1b6cb/output_screenshots/orders_by_day_of_week.png)
 
 ### Q4. Which are the top 10 cities by order volume?
 
