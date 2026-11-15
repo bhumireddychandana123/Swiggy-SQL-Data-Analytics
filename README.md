@@ -179,6 +179,7 @@ JOIN dim_date d
 GROUP BY d.year, d.quarter
 ORDER BY d.year, d.quarter;
 ```
+![Quarterly Orders]()
 
 **Yearly Orders:**
 
