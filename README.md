@@ -221,15 +221,15 @@ ORDER BY DATEPART(WEEKDAY, d.full_date);
 **Business Objective:** Identify cities with the highest number of orders.
 
 ```sql
-SELECT
+SELECT 
     l.city,
     COUNT(*) AS total_orders
 FROM fact_swiggy_orders f
-JOIN dim_location l
-    ON f.location_id = l.location_id
+JOIN dim_location l ON f.location_id = l.location_id
 GROUP BY l.city
 ORDER BY total_orders DESC
 OFFSET 0 ROWS FETCH NEXT 10 ROWS ONLY;
+
 ```
 
 **Output:**
