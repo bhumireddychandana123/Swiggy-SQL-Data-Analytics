@@ -254,7 +254,7 @@ OFFSET 0 ROWS FETCH NEXT 10 ROWS ONLY;
 
 **Output:**
 
-![Top Restaurants](Screenshots/09_Top_Restaurants.png)
+![Top Restaurants](https://github.com/bhumireddychandana123/Swiggy-SQL-Data-Analytics/blob/8c6b5ed47b247c8656f704e24d6e4d122ea36233/output_screenshots/top_10_restaurents_by_orders.png)
 
 ### Q6. Which food categories and dishes are most popular?
 
