@@ -1,4 +1,4 @@
-# Swiggy Data Analysis Using SQL Server
+# Swiggy Data Analysis Using SQL 
 
 ## 1. Project Overview
 
@@ -54,9 +54,6 @@ A Star Schema was designed to organize the data into fact and dimension tables.
 
 The fact table connects to the dimension tables through foreign keys. This structure helps perform analysis using SQL JOIN operations.
 
-**Database Schema Screenshot:**
-
-![Database Schema](Screenshots/15_Database_Schema.png)
 
 ## 5. Project Workflow
 
