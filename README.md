@@ -120,22 +120,22 @@ The following KPIs were calculated using SQL:
 
 The following business questions were selected to understand the Swiggy dataset:
 
-1. What is the total number of orders?
-2. What is the total revenue generated?
-3. What is the average dish price?
-4. What is the average rating?
-5. How many orders are placed each month?
-6. How do orders change across quarters?
-7. How many orders are placed each year?
-8. Which days of the week have the highest order volume?
-9. Which are the top 10 cities by order volume?
-10. Which restaurants receive the highest number of orders?
-11. Which food categories have the highest order volume?
-12. Which dishes are ordered most frequently?
-13. Which states generate the highest revenue?
-14. How are orders distributed across different price ranges?
-15. How are ratings distributed?
-16. Which food categories perform best based on order volume and average rating?
+1. Total Orders 
+2. total revenue 
+3. average dish price
+4. average rating 
+5. Monthly orders
+6. quarterly orders
+7. yearly orders
+8. Orders by day of week(Mon-Sun)
+9. Top 10 cities by orders
+10.Top 10 Restaurants by Orders
+11. Top Categories by Order Volume
+12.Most Ordered Dishes
+13. Total Revenue by State
+14. Total Orders by Price Range
+15. Rating Count Distribution(1-5)
+16.Orders + Avg Rating
 
 ## 9. Business Queries and SQL Solutions
 
