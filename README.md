@@ -337,7 +337,7 @@ ORDER BY total_orders DESC;
 
 **Output:**
 
-![Price Range Analysis](Screenshots/12_Price_Range.png)
+![Price Range Analysis](https://github.com/bhumireddychandana123/Swiggy-SQL-Data-Analytics/blob/bdeff6edfb8f8554013168dcdd744bba33682416/output_screenshots/total_orders_by_Price_range.png)
 
 ### Q9. How are ratings distributed?
 
