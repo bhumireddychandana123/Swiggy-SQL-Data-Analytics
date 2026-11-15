@@ -143,9 +143,9 @@ ORDER BY d.year, d.month;
 
 ![Monthly Orders](https://github.com/bhumireddychandana123/Swiggy-SQL-Data-Analytics/blob/efcaaf4e6738e4a2de9493c47d706c83ce5a8e75/output_screenshots/monthly_orders%20(2).png)
 
-### Q2. How do orders change across quarters and years?
+### Q2. How do orders change across quarters?
 
-**Business Objective:** Understand quarterly and yearly order trends.
+**Business Objective:** Understand quarterly  order trends.
 
 **Quarterly Orders:**
 
@@ -252,7 +252,7 @@ ORDER BY order_count DESC;
 
 **Output:**
 
-![Category and Dish Analysis](Screenshots/10_Category_Dish_Analysis.png)
+![Dish Analysis](https://github.com/bhumireddychandana123/Swiggy-SQL-Data-Analytics/blob/42af510184da72519275afc440068c1a761333c9/output_screenshots/most_ordered_dishes%20(2).png)
 
 ### Q7. Which states generate the highest revenue?
 
