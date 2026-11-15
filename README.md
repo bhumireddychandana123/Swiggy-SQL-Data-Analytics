@@ -113,7 +113,7 @@ The following KPIs were calculated using SQL:
 
 **Average Dish Price**
 
-![Average Dish Price](Screenshots/03_Average_Dish_Price.png)
+![Average Dish Price](https://github.com/bhumireddychandana123/Swiggy-SQL-Data-Analytics/blob/b27bd7701e4e3f3fb624958b0bedf148df32e8c2/output_screenshots/avg_dish_price.png)
 
 **Average Rating**
 
