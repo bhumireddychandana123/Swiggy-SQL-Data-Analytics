@@ -109,7 +109,7 @@ The following KPIs were calculated using SQL:
 
 **Total Revenue**
 
-![Total Revenue](Screenshots/02_Total_Revenue.png)
+![Total Revenue](https://github.com/bhumireddychandana123/Swiggy-SQL-Data-Analytics/blob/db711e831c32303710aab786d584a0126daedd11/output_screenshots/total_revenue.png)
 
 **Average Dish Price**
 
