@@ -179,7 +179,7 @@ JOIN dim_date d
 GROUP BY d.year, d.quarter
 ORDER BY d.year, d.quarter;
 ```
-![Quarterly Orders]()
+![Quarterly Orders](https://github.com/bhumireddychandana123/Swiggy-SQL-Data-Analytics/blob/9ed803905cb190a81a23eb5370b694886209ae12/output_screenshots/quarterly_orders.png)
 
 **Yearly Orders:**
 
