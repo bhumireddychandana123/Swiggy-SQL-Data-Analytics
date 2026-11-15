@@ -203,14 +203,13 @@ ORDER BY d.year;
 **Business Objective:** Identify the days with higher order activity.
 
 ```sql
-SELECT
-    d.day,
+SELECT 
+    DATENAME(WEEKDAY, d.full_date) AS day_name,
     COUNT(*) AS total_orders
 FROM fact_swiggy_orders f
-JOIN dim_date d
-    ON f.date_id = d.date_id
-GROUP BY d.day
-ORDER BY total_orders DESC;
+JOIN dim_date d ON f.date_id = d.date_id
+GROUP BY DATENAME(WEEKDAY, d.full_date), DATEPART(WEEKDAY, d.full_date)
+ORDER BY DATEPART(WEEKDAY, d.full_date);
 ```
 
 **Output:**
