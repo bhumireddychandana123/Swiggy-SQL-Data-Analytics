@@ -374,7 +374,7 @@ ORDER BY total_orders DESC;
 
 **Output:**
 
-![Cuisine Performance](Screenshots/14_Cuisine_Performance.png)
+![Cuisine Performance](https://github.com/bhumireddychandana123/Swiggy-SQL-Data-Analytics/blob/4c179e1b724c49efc5df48de2635b8e7dbd97dbe/output_screenshots/orders%2Bavg_rating.png)
 
 ## 10. Project Outcomes
 
