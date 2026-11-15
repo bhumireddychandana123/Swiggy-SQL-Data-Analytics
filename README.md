@@ -236,6 +236,7 @@ JOIN dim_category c
 GROUP BY c.category
 ORDER BY total_orders DESC;
 ```
+![Category Analysis]()
 
 **Dish Analysis:**
 
