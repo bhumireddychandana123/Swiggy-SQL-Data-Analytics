@@ -394,6 +394,5 @@ This project helped me gain practical experience in SQL Server, data cleaning, d
 
 - Microsoft SQL Server
 - SQL Server Management Studio (SSMS)
-- Microsoft Excel
 - GitHub
 
