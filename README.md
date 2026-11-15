@@ -236,7 +236,7 @@ JOIN dim_category c
 GROUP BY c.category
 ORDER BY total_orders DESC;
 ```
-![Category Analysis]()
+![Category Analysis](https://github.com/bhumireddychandana123/Swiggy-SQL-Data-Analytics/blob/0f1f0ae3f0ff4755d8cabe05ca0850b822157083/output_screenshots/top_categories.png)
 
 **Dish Analysis:**
 
