@@ -116,28 +116,9 @@ The following KPIs were calculated using SQL:
 
 ![Average Rating](https://github.com/bhumireddychandana123/Swiggy-SQL-Data-Analytics/blob/1ed4d603ce71e36cb31a92044d20c05a0d09e366/output_screenshots/avg_rating.png)
 
-## 8. Business Questions
 
-The following business questions were selected to understand the Swiggy dataset:
 
-1. Total Orders 
-2. total revenue 
-3. average dish price
-4. average rating 
-5. Monthly orders
-6. quarterly orders
-7. yearly orders
-8. Orders by day of week(Mon-Sun)
-9. Top 10 cities by orders
-10.Top 10 Restaurants by Orders
-11. Top Categories by Order Volume
-12 .Most Ordered Dishes
-13. Total Revenue by State
-14. Total Orders by Price Range
-15. Rating Count Distribution(1-5)
-16.Orders + Avg Rating
-
-## 9. Business Queries and SQL Solutions
+## 8. Business Queries and SQL Solutions
 
 The following queries answer the business questions using SQL.
 
@@ -180,23 +161,6 @@ GROUP BY d.year, d.quarter
 ORDER BY d.year, d.quarter;
 ```
 ![Quarterly Orders](https://github.com/bhumireddychandana123/Swiggy-SQL-Data-Analytics/blob/9ed803905cb190a81a23eb5370b694886209ae12/output_screenshots/quarterly_orders.png)
-
-**Yearly Orders:**
-
-```sql
-SELECT
-    d.year,
-    COUNT(*) AS total_orders
-FROM fact_swiggy_orders f
-JOIN dim_date d
-    ON f.date_id = d.date_id
-GROUP BY d.year
-ORDER BY d.year;
-```
-
-**Output:**
-
-![Yearly orders](https://github.com/bhumireddychandana123/Swiggy-SQL-Data-Analytics/blob/cdc0d3f89fa17cad43ffac2f8e0afe73dadec350/output_screenshots/yearly_orders.png)
 
 ### Q3. Which days of the week have the highest order volume?
 
