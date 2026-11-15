@@ -318,7 +318,7 @@ ORDER BY rating;
 
 **Output:**
 
-![Rating Distribution](Screenshots/13_Rating_Distribution.png)
+![Rating Distribution](https://github.com/bhumireddychandana123/Swiggy-SQL-Data-Analytics/blob/aec5c28001e9bacb995d33de760a183d20d5e074/output_screenshots/rating_count_distribution.png)
 
 ### Q10. Which food categories perform best based on order volume and average rating?
 
@@ -340,7 +340,7 @@ ORDER BY total_orders DESC;
 
 ![Cuisine Performance](https://github.com/bhumireddychandana123/Swiggy-SQL-Data-Analytics/blob/4c179e1b724c49efc5df48de2635b8e7dbd97dbe/output_screenshots/orders%2Bavg_rating.png)
 
-## 10. Project Outcomes
+## 9. Project Outcomes
 
 - Practiced SQL data cleaning and duplicate identification.
 - Designed a relational database using a Star Schema.
@@ -350,11 +350,11 @@ ORDER BY total_orders DESC;
 - Analyzed order trends, restaurant performance, popular dishes, ratings, and revenue.
 - Practiced CTEs and window functions for duplicate removal.
 
-## 11. Conclusion
+## 10. Conclusion
 
 This project helped me gain practical experience in SQL Server, data cleaning, database design, and business data analysis. It demonstrates how SQL can be used to transform raw data into meaningful business insights.
 
-## 12. Tools and Technologies
+## 11. Tools and Technologies
 
 - Microsoft SQL Server
 - SQL Server Management Studio (SSMS)
