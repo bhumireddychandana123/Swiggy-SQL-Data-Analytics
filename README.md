@@ -160,7 +160,7 @@ ORDER BY d.year, d.month;
 
 **Output:**
 
-![Monthly Orders](Screenshots/05_Monthly_Orders.png)
+![Monthly Orders](https://github.com/bhumireddychandana123/Swiggy-SQL-Data-Analytics/blob/efcaaf4e6738e4a2de9493c47d706c83ce5a8e75/output_screenshots/monthly_orders%20(2).png)
 
 ### Q2. How do orders change across quarters and years?
 
