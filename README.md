@@ -196,7 +196,7 @@ ORDER BY d.year;
 
 **Output:**
 
-![Time Based Analysis](Screenshots/06_Time_Based_Analysis.png)
+![Yearly orders](https://github.com/bhumireddychandana123/Swiggy-SQL-Data-Analytics/blob/cdc0d3f89fa17cad43ffac2f8e0afe73dadec350/output_screenshots/yearly_orders.png)
 
 ### Q3. Which days of the week have the highest order volume?
 
