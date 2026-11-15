@@ -117,7 +117,7 @@ The following KPIs were calculated using SQL:
 
 **Average Rating**
 
-![Average Rating](Screenshots/04_Average_Rating.png)
+![Average Rating](https://github.com/bhumireddychandana123/Swiggy-SQL-Data-Analytics/blob/1ed4d603ce71e36cb31a92044d20c05a0d09e366/output_screenshots/avg_rating.png)
 
 ## 8. Business Questions
 
