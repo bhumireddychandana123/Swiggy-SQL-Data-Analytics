@@ -234,7 +234,7 @@ OFFSET 0 ROWS FETCH NEXT 10 ROWS ONLY;
 
 **Output:**
 
-![Top Cities](Screenshots/08_Top_Cities.png)
+![Top Cities](https://github.com/bhumireddychandana123/Swiggy-SQL-Data-Analytics/blob/9b05b613be1c0f529dbb949fdaff341b8e11d296/output_screenshots/top_10_cities_by_orders.png)
 
 ### Q5. Which restaurants receive the highest number of orders?
 
