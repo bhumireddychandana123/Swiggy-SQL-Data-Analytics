@@ -307,7 +307,7 @@ ORDER BY total_revenue DESC;
 
 **Output:**
 
-![Revenue by State](Screenshots/11_Revenue_By_State.png)
+![Revenue by State](https://github.com/bhumireddychandana123/Swiggy-SQL-Data-Analytics/blob/edb8fa8ff7fa7c6fc0acd7938a5fe60b6ab60d74/output_screenshots/total_revenue_by_state.png)
 
 ### Q8. How are orders distributed across different price ranges?
 
