@@ -105,7 +105,7 @@ The following KPIs were calculated using SQL:
 
 **Total Orders**
 
-![Total Orders](Screenshots/01_Total_Orders.png)
+![Total Orders](https://github.com/bhumireddychandana123/Swiggy-SQL-Data-Analytics/blob/32b77fd27c822f439c303f962dbb638d9a356c8c/output_screenshots/Total_orders.png)
 
 **Total Revenue**
 
